@@ -1,5 +1,5 @@
-# .gitignore file
-venv/
 __pycache__/
+venv/
 .env
+*.log
 uploads/
